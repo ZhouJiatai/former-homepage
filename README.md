@@ -1,5 +1,5 @@
-# zhoujiatai.github.io
-Zhou Jiatai 的个人主页
+# “pre-homepage”
+这是 Zhou Jiatai 曾经的个人主页。
 ## 版权
 Copyright &copy; 2020 - 2021 Zhou Jiatai  
 ## 许可证
